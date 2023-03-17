@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
+/**
  * main - xalili a baba 
  *
- * Return: 0 will back
+ * Return: 0 when successfull
  */
 int main(void)
 {
