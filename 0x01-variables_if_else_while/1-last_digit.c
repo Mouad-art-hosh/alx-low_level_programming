@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * maine -  print the last digit of the number stored in the variable n
+ * maine - main function
  *
  * Return: Always 0 (success)
  *
