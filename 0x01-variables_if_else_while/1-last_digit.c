@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * maine - main function
+ * maine - Prints a text according number
  *
  * Return: Always 0 (success)
  *
