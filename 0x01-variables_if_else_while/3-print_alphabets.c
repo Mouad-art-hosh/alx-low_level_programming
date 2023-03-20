@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - printing the  alphabet in lowercase, and then in uppercase,
+ * main - main function
  *
  * Retuen: always 0
  */
