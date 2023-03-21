@@ -6,9 +6,9 @@
  * Reaturn: always 0
  */
 int main(void)
-{
-	char (i);
 
+{
+	char i;
 
 	for (i = 'a' ; i <= 'z' ; i++);
 		putchar(i);

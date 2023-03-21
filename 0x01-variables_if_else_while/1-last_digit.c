@@ -1,10 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
 #include <stdio.h>
-/* betty style doc for function main goes there */
 /**
- * main - main function
+ * main - print the last digit of the number stored in the variable n
  *
  * Return: always 0
  */
