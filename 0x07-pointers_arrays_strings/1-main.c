@@ -17,11 +17,19 @@ void simple_print_buffer(char *buffer, unsigned int size)
 	{
 	if (i % 10)
 	{
+<<<<<<< HEAD
 		printf(" ");
 	}
 	if (!(i % 10) && i)
 	{
 	printf("\n");
+=======
+	printf(" ");
+	}
+	if (!(i % 10) && i)
+	{
+		printf("\n");
+>>>>>>> 01d38cd90b4dfd7d4161da9f7f9c804bf8ab78a3
 	}
 	printf("0x%02x", buffer[i]);
 	i++;

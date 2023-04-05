@@ -15,8 +15,13 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 
 	for (; r < i; r++)
 	{
+<<<<<<< HEAD
 		dest[r] = src[r];
 		n--;
+=======
+	dest[r] = src[r];
+	n--;
+>>>>>>> 01d38cd90b4dfd7d4161da9f7f9c804bf8ab78a3
 	}
 	return (dest);
 }
