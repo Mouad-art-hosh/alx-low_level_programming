@@ -15,8 +15,9 @@ int _strlen(char *s)
 		return (0);
 	while (*s++)
 		k++;
-	return (K);
+	return (k);
 }
+
 /**
  * print_list - prints a linked lists
  *
@@ -32,7 +33,7 @@ size_t print_list(const list_t *h)
 	{
 		printf("[%d]%s\n", _strlen(h->str), h->str ? h->str : "(nil)");
 		h = h->next;
-		k++
+		k++;
 	}
 	return (k);
 }
